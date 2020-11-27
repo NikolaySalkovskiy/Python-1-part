@@ -1,0 +1,6 @@
+Salkovskiy  30000
+Mazov  13000
+Aleksandrov  10000
+Fedorov  150000
+Kokorin  143234
+Lokoshin 19500
